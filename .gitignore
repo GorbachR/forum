@@ -152,3 +152,9 @@ dist
 .pnp.*
 
 tmp
+dist_views
+
+# Added by cargo
+
+/target
+.vscode
